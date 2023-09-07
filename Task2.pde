@@ -46,7 +46,7 @@ if( sum == 30 ) {
 }
 
 
-// ----- Task 4 -----
+// ----- Task 4 ------
 // ----- Task 4.a -----
 for ( int i = 0 ; i < 21 ; i++ ) {
     println(i);
